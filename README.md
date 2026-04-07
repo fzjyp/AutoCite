@@ -15,7 +15,7 @@ AutoCite 是一款专为学术写作开发的参考文献自动化排版工具�
 ## 📊 效果对比
 | 排版前 | 排版后 |
 | :--- | :--- |
-| <img src="排版前.png" width="80%">| <img src="排版后.png" width="80%"> |
+| <img src="排版前.png" width="100%">| <img src="排版后.png" width="100%"> |
 ## 🚀 使用说明
 准备文档：确保您的 Word 文档中包含“参考文献”或“References”的大标题。
 
